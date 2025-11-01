@@ -72,11 +72,11 @@ Each folder focuses on a **specific Python concept**, from basic syntax to objec
 
 💖 Special Thanks
 
-        A huge thank you to the amazing 100 Days of Code https://www.youtube.com/@CodeWithHarry
+   A huge thank you to the amazing 100 Days of Code https://www.youtube.com/@CodeWithHarry
 
 
 👨‍💻 Author
 
-        Ankit Raj
-       📧 ankit.freelance04@gmail.com
+   Ankit Raj
+  📧 ankit.freelance04@gmail.com
 
