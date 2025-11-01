@@ -79,7 +79,6 @@ A huge thank you to the amazing 100 Days of Code https://www.youtube.com/@CodeWi
 👨‍💻 Author
 
 Ankit Raj
-🔗 in/Ankit04raj
 📧 ankit.freelance04@gmail.com
 
 #code wi
