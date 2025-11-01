@@ -36,49 +36,47 @@ Each folder focuses on a **specific Python concept**, from basic syntax to objec
 
 💡 Requirements
 
- 1> 🐍 Python 3.x or above
+      1> 🐍 Python 3.x or above
 
- 2> 🧰 Any code editor (VS Code, PyCharm, Sublime, etc.)
+      2> 🧰 Any code editor (VS Code, PyCharm, Sublime, etc.)
 
 
  🎯 Learning Goals
 
-✔️ Master Python fundamentals
-✔️ Understand each topic with examples
-✔️ Improve problem-solving and logic-building skills
+      ✔️ Master Python fundamentals
+      ✔️ Understand each topic with examples
+      ✔️ Improve problem-solving and logic-building skills
 
 
 🚀 Future Updates
+    
+        ** AI & DATA SCIENCE (GOAL)
+       
+       ** Adding advanced Python topics (NumPy, Pandas, Tkinter...)
 
-**Adding advanced Python topics (NumPy, Pandas, Tkinter...)
+       ** More exercises and projects
 
-**More exercises and projects
-
-**Mini real-world Python applications
-
-**AI & DATA SCIENCE (GOAL)
-
+       ** Mini real-world Python applications
 
 
 🤝 Contributing
 
-Contributions are welcome! 🎉
-If you’d like to improve this repo:
+        Contributions are welcome! 🎉
+        If you’d like to improve this repo:
 
-1> Fork it
+         1> Fork it
 
-2> Make your changes
+        2> Make your changes
 
-3> Submit a Pull Request
+        3> Submit a Pull Request
 
 💖 Special Thanks
 
-A huge thank you to the amazing 100 Days of Code https://www.youtube.com/@CodeWithHarry
+        A huge thank you to the amazing 100 Days of Code https://www.youtube.com/@CodeWithHarry
 
 
 👨‍💻 Author
 
-Ankit Raj
-📧 ankit.freelance04@gmail.com
+        Ankit Raj
+       📧 ankit.freelance04@gmail.com
 
-#code wi
